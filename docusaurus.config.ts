@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'seansseo', // Usually your GitHub org/user name.
+  projectName: 'docweb-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -92,7 +92,7 @@ const config: Config = {
           label: 'Main App',
           position: 'right',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -107,11 +107,12 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Getting Started',
+              to: '/docs/getting-started/',
             },
           ],
         },
+        /*
         {
           title: 'Community',
           items: [
@@ -129,16 +130,13 @@ const config: Config = {
             },
           ],
         },
+        */
         {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/seansseo/docweb-docs',
             },
           ],
         },
