@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
         'core-concepts/architecture',
         'core-concepts/waterfall-discovery',
         'core-concepts/url-classification',
+        'core-concepts/limitations',
       ],
     },
     {
