@@ -7,12 +7,12 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'DocWeb',
   tagline: 'Visual Intelligence for Digital Content',
-  favicon: 'img/favicon.png',
   headTags: [
     {
       tagName: 'link',
       attributes: {
         rel: 'icon',
+        type: 'image/png',
         href: '/img/dex-black.png',
         media: '(prefers-color-scheme: light)',
       },
@@ -21,8 +21,17 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'icon',
+        type: 'image/png',
         href: '/img/dex-white.png',
         media: '(prefers-color-scheme: dark)',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        href: '/img/dex-black.png',
       },
     },
   ],
@@ -107,16 +116,11 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://docweb.app',
+          href: 'https://docweb.net',
           label: 'Main App',
           position: 'right',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/seansseo/docweb-docs',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -178,7 +182,7 @@ const config: Config = {
           items: [
             {
               label: 'Main App',
-              href: 'https://docweb.app',
+              href: 'https://docweb.net',
             },
             {
               label: 'Support',
@@ -187,10 +191,6 @@ const config: Config = {
             {
               label: 'Changelog',
               to: '/docs/changelog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/seansseo/docweb-docs',
             },
           ],
         },
