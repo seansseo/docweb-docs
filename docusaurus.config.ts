@@ -96,8 +96,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/dex-black.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -117,7 +116,7 @@ const config: Config = {
         },
         {
           href: 'https://docweb.net',
-          label: 'Main App',
+          label: 'Try DocWeb',
           position: 'right',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},

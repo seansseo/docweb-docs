@@ -4,7 +4,7 @@ Get your first "Neural Map" up and running in minutes.
 
 ## Step 1: Sign In
 
-1. Open [docweb.app](https://docweb.app) in your browser
+1. Open [docweb.net](https://docweb.net) in your browser
 2. Sign in with **Email/Password** or **Google OAuth**
 3. You'll start with **3 free credits per day** on the Free tier
 

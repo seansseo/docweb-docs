@@ -3,7 +3,7 @@
 **Effective Date**: January 22, 2026
 **Last Updated**: January 22, 2026
 
-Welcome to DocWeb. By accessing or using our services at docweb.app, you agree to be bound by these Terms of Service ("Terms"). Please read them carefully.
+Welcome to DocWeb. By accessing or using our services at docweb.net, you agree to be bound by these Terms of Service ("Terms"). Please read them carefully.
 
 ## 1. Acceptance of Terms
 

@@ -3,7 +3,7 @@
 **Effective Date**: January 22, 2026
 **Last Updated**: January 22, 2026
 
-DocWeb ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our documentation visualization platform at docweb.app.
+DocWeb ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our documentation visualization platform at docweb.net.
 
 ## Information We Collect
 

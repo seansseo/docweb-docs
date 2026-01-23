@@ -1,23 +1,69 @@
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
+ * Homepage styles - Clean slate design
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 6rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: var(--ifm-background-color);
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 3rem 1rem;
   }
+}
+
+.heroTitle {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--ifm-font-color-base);
+  margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 996px) {
+  .heroTitle {
+    font-size: 2rem;
+  }
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  color: var(--ifm-font-color-secondary);
+  margin-bottom: 2rem;
 }
 
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+}
+
+.heroButton {
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  border: 1px solid var(--ifm-toc-border-color);
+  font-weight: 600;
+  padding: 0.875rem 2rem;
+  border-radius: 0.75rem;
+  transition: all 0.15s ease;
+}
+
+.heroButton:hover {
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  border-color: var(--ifm-font-color-secondary);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] .heroButton {
+  background-color: var(--ifm-background-surface-color);
+  border-color: var(--ifm-toc-border-color);
+}
+
+[data-theme='dark'] .heroButton:hover {
+  border-color: var(--ifm-font-color-secondary);
 }

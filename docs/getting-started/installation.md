@@ -1,6 +1,6 @@
 # System Requirements
 
-DocWeb is a web-based SaaS application. No installation is required - simply visit [docweb.app](https://docweb.app) to get started.
+DocWeb is a web-based SaaS application. No installation is required - simply visit [docweb.net](https://docweb.net) to get started.
 
 ## Browser Support
 

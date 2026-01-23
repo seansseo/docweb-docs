@@ -160,7 +160,7 @@ Common issues and how to resolve them.
 **Solutions**:
 - Reset your password
 - Create a new account
-- Enable cookies for docweb.app
+- Enable cookies for docweb.net
 - Try signing in with Google OAuth
 - Clear browser cache and cookies
 
@@ -234,7 +234,7 @@ Common issues and how to resolve them.
 3. Browser issue
 
 **Solutions**:
-- Enable popups for docweb.app
+- Enable popups for docweb.net
 - Try a different browser
 - Contact support for direct portal link
 
