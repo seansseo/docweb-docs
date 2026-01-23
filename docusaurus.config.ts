@@ -13,7 +13,7 @@ const config: Config = {
       attributes: {
         rel: 'icon',
         type: 'image/png',
-        href: '/img/dex-black.png',
+        href: '/docs/img/dex-black.png',
         media: '(prefers-color-scheme: light)',
       },
     },
@@ -22,7 +22,7 @@ const config: Config = {
       attributes: {
         rel: 'icon',
         type: 'image/png',
-        href: '/img/dex-white.png',
+        href: '/docs/img/dex-white.png',
         media: '(prefers-color-scheme: dark)',
       },
     },
@@ -31,7 +31,7 @@ const config: Config = {
       attributes: {
         rel: 'icon',
         type: 'image/png',
-        href: '/img/dex-black.png',
+        href: '/docs/img/dex-black.png',
       },
     },
   ],
@@ -42,10 +42,10 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docs.docweb.net',
+  url: 'https://docweb.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
