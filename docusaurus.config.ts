@@ -94,7 +94,7 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/seansseo/docweb-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -110,30 +110,65 @@ const config: Config = {
               label: 'Getting Started',
               to: '/docs/getting-started/',
             },
+            {
+              label: 'Features',
+              to: '/docs/features/',
+            },
+            {
+              label: 'API Reference',
+              to: '/docs/api-reference/',
+            },
           ],
         },
-        /*
         {
-          title: 'Community',
+          title: 'Account',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Pricing',
+              to: '/docs/account/pricing',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Credits',
+              to: '/docs/account/credits',
             },
           ],
         },
-        */
+        {
+          title: 'Legal & Security',
+          items: [
+            {
+              label: 'Terms of Service',
+              to: '/docs/legal/terms',
+            },
+            {
+              label: 'Privacy Policy',
+              to: '/docs/legal/privacy',
+            },
+            {
+              label: 'Security',
+              to: '/docs/security/',
+            },
+            {
+              label: 'Bot Information',
+              to: '/bot',
+            },
+          ],
+        },
         {
           title: 'More',
           items: [
+            {
+              label: 'Main App',
+              href: 'https://docweb.app',
+            },
+            {
+              label: 'Support',
+              to: '/docs/support/',
+            },
+            {
+              label: 'Changelog',
+              to: '/docs/changelog',
+            },
             {
               label: 'GitHub',
               href: 'https://github.com/seansseo/docweb-docs',

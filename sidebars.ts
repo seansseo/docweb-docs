@@ -19,8 +19,9 @@ const sidebars: SidebarsConfig = {
       label: 'Getting Started',
       items: [
         'getting-started/index',
-        'getting-started/installation',
         'getting-started/quick-start',
+        'getting-started/installation',
+        'getting-started/glossary',
       ],
     },
     {
@@ -41,7 +42,10 @@ const sidebars: SidebarsConfig = {
         'features/index',
         'features/visualization',
         'features/rag-chatbot',
+        'features/search',
         'features/content-extraction',
+        'features/sessions',
+        'features/caching',
       ],
     },
     {
@@ -65,6 +69,45 @@ const sidebars: SidebarsConfig = {
         'api-reference/frontend-hooks',
       ],
     },
+    {
+      type: 'category',
+      label: 'Account & Billing',
+      items: [
+        'account/index',
+        'account/pricing',
+        'account/credits',
+        'account/subscription',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Security',
+      items: [
+        'security/index',
+        'security/overview',
+        'security/data-protection',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Support',
+      items: [
+        'support/index',
+        'support/faq',
+        'support/troubleshooting',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Legal',
+      items: [
+        'legal/index',
+        'legal/terms',
+        'legal/privacy',
+        'legal/acceptable-use',
+      ],
+    },
+    'changelog',
   ],
 };
 
