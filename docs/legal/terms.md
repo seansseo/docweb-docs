@@ -21,7 +21,7 @@ DocWeb is an AI-powered documentation visualization platform that:
 ## 3. Account Registration
 
 ### 3.1 Requirements
-- You must be at least 13 years old
+- You must be at least 18 years old (or the age of majority in your jurisdiction, whichever is higher)
 - You must provide accurate account information
 - You are responsible for maintaining account security
 - One account per person (no shared accounts)
@@ -145,9 +145,14 @@ We process your data as described in our [Privacy Policy](privacy.md), including
 - User data retained until account deletion
 - Session data retained until you delete it
 - Global cache: 24-hour TTL (domain/page) or permanent (embeddings)
+- Error and debugging logs: 30 days
+- Payment records: 7 years (legal requirement)
 - We may retain anonymized, aggregated data indefinitely
 
-### 7.3 AI Processing
+### 7.3 Data Export
+You may request an export of your personal data by contacting us at [seanseo.llc@gmail.com](mailto:seanseo.llc@gmail.com). We will provide your data in a machine-readable format within 30 days of a verified request.
+
+### 7.4 AI Processing
 Chat queries are processed by Google Gemini:
 - Queries sent with relevant content context
 - Not used to train Google's models
@@ -240,8 +245,10 @@ Termination may be immediate and without refund for serious violations.
 Upon termination:
 - Access to the service ends immediately
 - Your data may be deleted per our retention policy
-- Accrued obligations survive termination
 - Global cache contributions are not removed
+
+### 12.4 Survival
+The following sections survive termination: Section 6 (Intellectual Property), Section 9 (Disclaimers), Section 10 (Limitation of Liability), Section 11 (Indemnification), Section 14 (Dispute Resolution), and any accrued payment obligations.
 
 ## 13. Changes to Terms
 

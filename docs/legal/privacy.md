@@ -147,6 +147,37 @@ Contact us to request an export of your data in machine-readable format.
 - Disable cookies (may affect authentication)
 - Delete your account to remove all personal data
 
+## Your Privacy Rights by Region
+
+### For California Residents (CCPA)
+If you are a California resident, you have the right to:
+- **Know** what personal information we collect, use, and disclose
+- **Delete** your personal information (subject to certain exceptions)
+- **Opt-out** of the sale of personal information (we do not sell your data)
+- **Non-discrimination** for exercising your privacy rights
+
+To exercise these rights, contact us at [seanseo.llc@gmail.com](mailto:seanseo.llc@gmail.com).
+
+### For European Users (GDPR)
+If you are located in the European Economic Area, you have the right to:
+- **Access** your personal data
+- **Rectification** of inaccurate data
+- **Erasure** ("right to be forgotten")
+- **Restrict processing** of your data
+- **Data portability** in a machine-readable format
+- **Object** to processing based on legitimate interests
+- **Withdraw consent** at any time (where processing is based on consent)
+
+**Legal Basis for Processing**: We process your data based on:
+- Contract performance (providing our services)
+- Legitimate interests (improving services, security)
+- Consent (marketing communications, if applicable)
+
+**Data Controller**: DocWeb (Sean Seo)
+**Contact**: [seanseo.llc@gmail.com](mailto:seanseo.llc@gmail.com)
+
+You may also lodge a complaint with your local data protection authority.
+
 ## Cookies and Local Storage
 
 We use cookies and local storage for:
@@ -156,9 +187,11 @@ We use cookies and local storage for:
 
 We do not use third-party tracking cookies.
 
+You can manage cookie preferences through your browser settings. Note that disabling cookies may affect authentication functionality.
+
 ## Children's Privacy
 
-DocWeb is not intended for users under 13 years of age. We do not knowingly collect personal information from children under 13. If we discover we have collected data from a child under 13, we will delete it promptly.
+DocWeb is not intended for users under 18 years of age. We do not knowingly collect personal information from minors. If we discover we have collected data from a user under 18, we will delete it promptly.
 
 ## Security Measures
 
@@ -173,6 +206,7 @@ We implement comprehensive security measures:
 | Rate limiting | p-limit concurrency control |
 | Bot protection | robots.txt compliance, crawl-delay |
 | Payment security | Stripe PCI compliance |
+| Incident response | Users notified within 72 hours of confirmed breach |
 
 See our [Security](../security/index.md) page for more details.
 
@@ -212,6 +246,6 @@ For privacy-related questions, requests, or concerns:
 
 **Data Protection Contact**: Sean Seo
 
-**Response Time**: We aim to respond within 30 days
+**Response Time**: We aim to respond within 7 business days
 
 **Mailing Address**: Available upon request
