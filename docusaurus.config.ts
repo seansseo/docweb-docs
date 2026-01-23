@@ -7,7 +7,25 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'DocWeb',
   tagline: 'Visual Intelligence for Digital Content',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        href: '/img/dex-black.png',
+        media: '(prefers-color-scheme: light)',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        href: '/img/dex-white.png',
+        media: '(prefers-color-scheme: dark)',
+      },
+    },
+  ],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -77,8 +95,9 @@ const config: Config = {
     navbar: {
       title: 'DocWeb',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'DocWeb Logo',
+        src: 'img/dex-black.png',
+        srcDark: 'img/dex-white.png',
       },
       items: [
         {
