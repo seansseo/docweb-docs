@@ -1,0 +1,218 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-7d8": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-69f": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-231": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/account/-ee2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-account-e-94-fd5"
+  },
+  "/docs/account/credits-76e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-account-credits-640-204"
+  },
+  "/docs/account/pricing-9f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-account-pricing-1-b-6-1d7"
+  },
+  "/docs/account/subscription-a06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-account-subscriptione-2-c-e69"
+  },
+  "/docs/api-reference/-4d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-reference-f-2-d-245"
+  },
+  "/docs/api-reference/cloud-functions-358": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-reference-cloud-functions-63-d-933"
+  },
+  "/docs/api-reference/firestore-schema-106": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-reference-firestore-schemaa-45-443"
+  },
+  "/docs/api-reference/frontend-hooks-9aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-reference-frontend-hooks-140-9cf"
+  },
+  "/docs/changelog-74a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-changelog-9-be-5d4"
+  },
+  "/docs/core-concepts/-48b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-core-concepts-6-e-4-f87"
+  },
+  "/docs/core-concepts/architecture-0a9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-core-concepts-architectureb-15-d3e"
+  },
+  "/docs/core-concepts/limitations-ea6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-core-concepts-limitations-078-63e"
+  },
+  "/docs/core-concepts/url-classification-efc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-core-concepts-url-classification-1-b-1-413"
+  },
+  "/docs/core-concepts/waterfall-discovery-6ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-core-concepts-waterfall-discovery-838-896"
+  },
+  "/docs/features/-433": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-c-07-60f"
+  },
+  "/docs/features/caching-fe8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-caching-806-0bf"
+  },
+  "/docs/features/content-extraction-aa1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-content-extractionc-59-bd9"
+  },
+  "/docs/features/rag-chatbot-ff4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-rag-chatbotce-1-44b"
+  },
+  "/docs/features/search-ee1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-search-709-d30"
+  },
+  "/docs/features/sessions-36c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-sessions-0-e-7-477"
+  },
+  "/docs/features/visualization-eb7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-features-visualizatione-21-334"
+  },
+  "/docs/getting-started/-c1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-54-c-251"
+  },
+  "/docs/getting-started/glossary-88b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-glossarydd-4-c4d"
+  },
+  "/docs/getting-started/installation-f1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-installation-54-f-18d"
+  },
+  "/docs/getting-started/quick-start-835": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-quick-start-588-94b"
+  },
+  "/docs/legal/-5d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-legal-d-4-d-89f"
+  },
+  "/docs/legal/acceptable-use-eb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-legal-acceptable-use-3-da-a28"
+  },
+  "/docs/legal/privacy-c11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-legal-privacyd-2-c-e88"
+  },
+  "/docs/legal/terms-5ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-legal-terms-733-761"
+  },
+  "/docs/security/-b6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-security-929-905"
+  },
+  "/docs/security/data-protection-db5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-security-data-protection-92-e-8c7"
+  },
+  "/docs/security/overview-de5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-security-overview-359-b14"
+  },
+  "/docs/support/-d02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-support-a-64-543"
+  },
+  "/docs/support/faq-fb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-support-faq-679-fb5"
+  },
+  "/docs/support/troubleshooting-80e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-support-troubleshooting-190-9f0"
+  },
+  "/docs/use-cases/-73e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-use-cases-7-fb-7fa"
+  },
+  "/docs/use-cases/competitor-intelligence-5f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-use-cases-competitor-intelligence-35-f-b02"
+  },
+  "/docs/use-cases/legal-research-f6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-use-cases-legal-research-1-c-8-ddb"
+  },
+  "/docs/use-cases/seo-auditing-098": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-use-cases-seo-auditing-2-d-7-e92"
+  },
+  "/docs/use-cases/technical-docs-ef9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-use-cases-technical-docs-1-f-9-3f1"
+  }
+}

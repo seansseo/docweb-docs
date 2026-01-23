@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# For more information about our bot, visit https://docs.docweb.net/bot
