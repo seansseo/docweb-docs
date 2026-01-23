@@ -68,6 +68,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -130,15 +131,15 @@ const config: Config = {
           items: [
             {
               label: 'Getting Started',
-              to: 'docs/getting-started/',
+              to: '/getting-started/',
             },
             {
               label: 'Features',
-              to: 'docs/features/',
+              to: '/features/',
             },
             {
               label: 'API Reference',
-              to: 'docs/api-reference/',
+              to: '/api-reference/',
             },
           ],
         },
@@ -147,11 +148,11 @@ const config: Config = {
           items: [
             {
               label: 'Pricing',
-              to: 'docs/account/pricing',
+              to: '/account/pricing',
             },
             {
               label: 'Credits',
-              to: 'docs/account/credits',
+              to: '/account/credits',
             },
           ],
         },
@@ -160,19 +161,19 @@ const config: Config = {
           items: [
             {
               label: 'Terms of Service',
-              to: 'docs/legal/terms',
+              to: '/legal/terms',
             },
             {
               label: 'Privacy Policy',
-              to: 'docs/legal/privacy',
+              to: '/legal/privacy',
             },
             {
               label: 'Security',
-              to: 'docs/security/',
+              to: '/security/',
             },
             {
               label: 'Bot Information',
-              to: 'bot',
+              to: '/bot',
             },
           ],
         },
@@ -185,11 +186,11 @@ const config: Config = {
             },
             {
               label: 'Support',
-              to: 'docs/support/',
+              to: '/support/',
             },
             {
               label: 'Changelog',
-              to: 'docs/changelog',
+              to: '/changelog',
             },
           ],
         },
