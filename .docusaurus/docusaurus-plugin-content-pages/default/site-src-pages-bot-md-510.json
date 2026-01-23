@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/docs/bot",
+  "source": "@site/src/pages/bot.md",
+  "title": "DocWeb Bot",
+  "description": "Information about the DocWeb web crawler and AI assistant Dex.",
+  "frontMatter": {
+    "title": "DocWeb Bot",
+    "description": "Information about the DocWeb web crawler and AI assistant Dex."
+  },
+  "unlisted": false
+}

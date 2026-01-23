@@ -1,0 +1,24 @@
+{
+  "id": "features/index",
+  "title": "Features",
+  "description": "DocWeb offers a suite of tools to visualize and interact with digital content.",
+  "source": "@site/docs/features/index.md",
+  "sourceDirName": "features",
+  "slug": "/features/",
+  "permalink": "/docs/features/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/features/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Limitations",
+    "permalink": "/docs/core-concepts/limitations"
+  },
+  "next": {
+    "title": "Sigma.js Visualization",
+    "permalink": "/docs/features/visualization"
+  }
+}

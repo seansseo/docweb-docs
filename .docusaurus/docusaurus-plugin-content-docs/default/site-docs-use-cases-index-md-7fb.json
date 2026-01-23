@@ -1,0 +1,24 @@
+{
+  "id": "use-cases/index",
+  "title": "Use Cases",
+  "description": "DocWeb is a versatile tool with applications across multiple industries.",
+  "source": "@site/docs/use-cases/index.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/",
+  "permalink": "/docs/use-cases/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/use-cases/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Global Caching",
+    "permalink": "/docs/features/caching"
+  },
+  "next": {
+    "title": "Technical Documentation",
+    "permalink": "/docs/use-cases/technical-docs"
+  }
+}

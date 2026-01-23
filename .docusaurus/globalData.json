@@ -1,0 +1,228 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs/",
+          "mainDocId": "getting-started/index",
+          "docs": [
+            {
+              "id": "account/credits",
+              "path": "/docs/account/credits",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "account/index",
+              "path": "/docs/account/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "account/pricing",
+              "path": "/docs/account/pricing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "account/subscription",
+              "path": "/docs/account/subscription",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/cloud-functions",
+              "path": "/docs/api-reference/cloud-functions",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/firestore-schema",
+              "path": "/docs/api-reference/firestore-schema",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/frontend-hooks",
+              "path": "/docs/api-reference/frontend-hooks",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/index",
+              "path": "/docs/api-reference/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "changelog",
+              "path": "/docs/changelog",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "core-concepts/architecture",
+              "path": "/docs/core-concepts/architecture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "core-concepts/index",
+              "path": "/docs/core-concepts/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "core-concepts/limitations",
+              "path": "/docs/core-concepts/limitations",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "core-concepts/url-classification",
+              "path": "/docs/core-concepts/url-classification",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "core-concepts/waterfall-discovery",
+              "path": "/docs/core-concepts/waterfall-discovery",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/caching",
+              "path": "/docs/features/caching",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/content-extraction",
+              "path": "/docs/features/content-extraction",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/index",
+              "path": "/docs/features/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/rag-chatbot",
+              "path": "/docs/features/rag-chatbot",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/search",
+              "path": "/docs/features/search",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/sessions",
+              "path": "/docs/features/sessions",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/visualization",
+              "path": "/docs/features/visualization",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "getting-started/glossary",
+              "path": "/docs/getting-started/glossary",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "getting-started/index",
+              "path": "/docs/getting-started/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "getting-started/quick-start",
+              "path": "/docs/getting-started/quick-start",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "legal/acceptable-use",
+              "path": "/docs/legal/acceptable-use",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "legal/index",
+              "path": "/docs/legal/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "legal/privacy",
+              "path": "/docs/legal/privacy",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "legal/terms",
+              "path": "/docs/legal/terms",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/data-protection",
+              "path": "/docs/security/data-protection",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/index",
+              "path": "/docs/security/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/overview",
+              "path": "/docs/security/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "support/faq",
+              "path": "/docs/support/faq",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "support/index",
+              "path": "/docs/support/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "support/troubleshooting",
+              "path": "/docs/support/troubleshooting",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "use-cases/competitor-intelligence",
+              "path": "/docs/use-cases/competitor-intelligence",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "use-cases/index",
+              "path": "/docs/use-cases/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "use-cases/legal-research",
+              "path": "/docs/use-cases/legal-research",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "use-cases/seo-auditing",
+              "path": "/docs/use-cases/seo-auditing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "use-cases/technical-docs",
+              "path": "/docs/use-cases/technical-docs",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/getting-started/",
+                "label": "getting-started/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "core-concepts/limitations",
+  "title": "Limitations",
+  "description": "While DocWeb is a powerful tool for visual intelligence and content extraction, there are certain technical and ethical limitations to its operation.",
+  "source": "@site/docs/core-concepts/limitations.md",
+  "sourceDirName": "core-concepts",
+  "slug": "/core-concepts/limitations",
+  "permalink": "/docs/core-concepts/limitations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/core-concepts/limitations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "URL Classification",
+    "permalink": "/docs/core-concepts/url-classification"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/docs/features/"
+  }
+}
