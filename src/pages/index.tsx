@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx('button button--lg', styles.heroButton)}
-            href="https://docweb.net">
+            href="https://app.docweb.net">
             Try DocWeb
           </Link>
         </div>

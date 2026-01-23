@@ -113,6 +113,6 @@ We accept all major credit cards via Stripe.
 
 ## Get Started
 
-1. **Sign up** for free at [docweb.net](https://docweb.net)
+1. **Sign up** for free at [app.docweb.net](https://app.docweb.net)
 2. **Try** the Free tier to explore features
 3. **Upgrade** when you need more credits or sessions

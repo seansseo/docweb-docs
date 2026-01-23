@@ -116,7 +116,7 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://docweb.net',
+          href: 'https://app.docweb.net',
           label: 'Try DocWeb',
           position: 'right',
         },
@@ -182,7 +182,7 @@ const config: Config = {
           items: [
             {
               label: 'Main App',
-              href: 'https://docweb.net',
+              href: 'https://app.docweb.net',
             },
             {
               label: 'Support',
