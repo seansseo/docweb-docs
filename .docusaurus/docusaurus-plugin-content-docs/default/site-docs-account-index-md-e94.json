@@ -1,0 +1,27 @@
+{
+  "id": "account/index",
+  "title": "Account & Billing",
+  "description": "Manage your DocWeb account, subscription, and credits.",
+  "source": "@site/docs/account/index.md",
+  "sourceDirName": "account",
+  "slug": "/account/",
+  "permalink": "/docs/account/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/account/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Frontend Hooks",
+    "permalink": "/docs/api-reference/frontend-hooks"
+  },
+  "next": {
+    "title": "Pricing & Plans",
+    "permalink": "/docs/account/pricing"
+  }
+}

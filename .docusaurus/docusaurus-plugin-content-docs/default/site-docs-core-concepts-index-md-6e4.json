@@ -1,0 +1,24 @@
+{
+  "id": "core-concepts/index",
+  "title": "Core Concepts",
+  "description": "DocWeb is built on several key principles that differentiate it from standard AI models and traditional documentation tools.",
+  "source": "@site/docs/core-concepts/index.md",
+  "sourceDirName": "core-concepts",
+  "slug": "/core-concepts/",
+  "permalink": "/docs/core-concepts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/core-concepts/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/docs/getting-started/glossary"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/core-concepts/architecture"
+  }
+}

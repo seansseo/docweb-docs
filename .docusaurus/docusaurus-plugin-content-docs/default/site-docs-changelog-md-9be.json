@@ -1,0 +1,23 @@
+{
+  "id": "changelog",
+  "title": "Changelog",
+  "description": "Release notes and updates for DocWeb.",
+  "source": "@site/docs/changelog.md",
+  "sourceDirName": ".",
+  "slug": "/changelog",
+  "permalink": "/docs/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/changelog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Acceptable Use Policy",
+    "permalink": "/docs/legal/acceptable-use"
+  }
+}

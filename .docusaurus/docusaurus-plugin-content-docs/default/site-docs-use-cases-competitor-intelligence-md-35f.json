@@ -1,0 +1,24 @@
+{
+  "id": "use-cases/competitor-intelligence",
+  "title": "Competitive Intelligence",
+  "description": "Understand a competitor’s product strategy by \"X-raying\" their website.",
+  "source": "@site/docs/use-cases/competitor-intelligence.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/competitor-intelligence",
+  "permalink": "/docs/use-cases/competitor-intelligence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/use-cases/competitor-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Legal & Regulatory Compliance",
+    "permalink": "/docs/use-cases/legal-research"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/docs/api-reference/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "api-reference/firestore-schema",
+  "title": "Firestore Schema",
+  "description": "DocWeb stores its data in Google Cloud Firestore with the following collections and schemas.",
+  "source": "@site/docs/api-reference/firestore-schema.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/firestore-schema",
+  "permalink": "/docs/api-reference/firestore-schema",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-reference/firestore-schema.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Cloud Functions",
+    "permalink": "/docs/api-reference/cloud-functions"
+  },
+  "next": {
+    "title": "Frontend Hooks",
+    "permalink": "/docs/api-reference/frontend-hooks"
+  }
+}

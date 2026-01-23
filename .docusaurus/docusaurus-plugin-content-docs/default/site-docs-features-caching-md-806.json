@@ -1,0 +1,24 @@
+{
+  "id": "features/caching",
+  "title": "Global Caching",
+  "description": "DocWeb uses a shared caching layer to optimize performance and reduce redundant crawling. All caching is global - benefiting all users of the platform.",
+  "source": "@site/docs/features/caching.md",
+  "sourceDirName": "features",
+  "slug": "/features/caching",
+  "permalink": "/docs/features/caching",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/features/caching.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Session Management",
+    "permalink": "/docs/features/sessions"
+  },
+  "next": {
+    "title": "Use Cases",
+    "permalink": "/docs/use-cases/"
+  }
+}

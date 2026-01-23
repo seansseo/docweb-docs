@@ -1,0 +1,24 @@
+{
+  "id": "features/rag-chatbot",
+  "title": "Dex AI Chatbot",
+  "description": "Meet Dex, your AI documentation assistant that truly understands your documentation.",
+  "source": "@site/docs/features/rag-chatbot.md",
+  "sourceDirName": "features",
+  "slug": "/features/rag-chatbot",
+  "permalink": "/docs/features/rag-chatbot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/features/rag-chatbot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Sigma.js Visualization",
+    "permalink": "/docs/features/visualization"
+  },
+  "next": {
+    "title": "Hybrid Search",
+    "permalink": "/docs/features/search"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "core-concepts/waterfall-discovery",
+  "title": "Waterfall Discovery",
+  "description": "The app doesn't just \"scrape\" a site; it understands it through a multi-stage process called Waterfall Discovery.",
+  "source": "@site/docs/core-concepts/waterfall-discovery.md",
+  "sourceDirName": "core-concepts",
+  "slug": "/core-concepts/waterfall-discovery",
+  "permalink": "/docs/core-concepts/waterfall-discovery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/core-concepts/waterfall-discovery.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/core-concepts/architecture"
+  },
+  "next": {
+    "title": "URL Classification",
+    "permalink": "/docs/core-concepts/url-classification"
+  }
+}
