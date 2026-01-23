@@ -130,15 +130,15 @@ const config: Config = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/getting-started/',
+              to: 'docs/getting-started/',
             },
             {
               label: 'Features',
-              to: '/docs/features/',
+              to: 'docs/features/',
             },
             {
               label: 'API Reference',
-              to: '/docs/api-reference/',
+              to: 'docs/api-reference/',
             },
           ],
         },
@@ -147,11 +147,11 @@ const config: Config = {
           items: [
             {
               label: 'Pricing',
-              to: '/docs/account/pricing',
+              to: 'docs/account/pricing',
             },
             {
               label: 'Credits',
-              to: '/docs/account/credits',
+              to: 'docs/account/credits',
             },
           ],
         },
@@ -160,19 +160,19 @@ const config: Config = {
           items: [
             {
               label: 'Terms of Service',
-              to: '/docs/legal/terms',
+              to: 'docs/legal/terms',
             },
             {
               label: 'Privacy Policy',
-              to: '/docs/legal/privacy',
+              to: 'docs/legal/privacy',
             },
             {
               label: 'Security',
-              to: '/docs/security/',
+              to: 'docs/security/',
             },
             {
               label: 'Bot Information',
-              to: '/bot',
+              to: 'bot',
             },
           ],
         },
@@ -185,11 +185,11 @@ const config: Config = {
             },
             {
               label: 'Support',
-              to: '/docs/support/',
+              to: 'docs/support/',
             },
             {
               label: 'Changelog',
-              to: '/docs/changelog',
+              to: 'docs/changelog',
             },
           ],
         },
